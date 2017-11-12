@@ -1,0 +1,9 @@
+D:\VS_Workspace\Fulcrum Data Testing Tool\Fulcrum Data Testing Tool\bin\Debug\Fulcrum Data Testing Tool.exe.config
+D:\VS_Workspace\Fulcrum Data Testing Tool\Fulcrum Data Testing Tool\bin\Debug\Fulcrum Data Testing Tool.exe
+D:\VS_Workspace\Fulcrum Data Testing Tool\Fulcrum Data Testing Tool\bin\Debug\Fulcrum Data Testing Tool.pdb
+D:\VS_Workspace\Fulcrum Data Testing Tool\Fulcrum Data Testing Tool\obj\Debug\Fulcrum Data Testing Tool.csprojResolveAssemblyReference.cache
+D:\VS_Workspace\Fulcrum Data Testing Tool\Fulcrum Data Testing Tool\obj\Debug\Fulcrum_Data_Testing_Tool.Properties.Resources.resources
+D:\VS_Workspace\Fulcrum Data Testing Tool\Fulcrum Data Testing Tool\obj\Debug\Fulcrum Data Testing Tool.csproj.GenerateResource.Cache
+D:\VS_Workspace\Fulcrum Data Testing Tool\Fulcrum Data Testing Tool\obj\Debug\Fulcrum Data Testing Tool.exe
+D:\VS_Workspace\Fulcrum Data Testing Tool\Fulcrum Data Testing Tool\obj\Debug\Fulcrum Data Testing Tool.pdb
+D:\VS_Workspace\Fulcrum Data Testing Tool\Fulcrum Data Testing Tool\obj\Debug\Fulcrum_Data_Testing_Tool.DashBorad.resources
