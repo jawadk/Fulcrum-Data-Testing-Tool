@@ -32,6 +32,7 @@
             this.txtb_FilePath = new System.Windows.Forms.TextBox();
             this.btn_Browse = new System.Windows.Forms.Button();
             this.openFileDialog1 = new System.Windows.Forms.OpenFileDialog();
+            this.btn_ReadXML = new System.Windows.Forms.Button();
             this.SuspendLayout();
             // 
             // label1
@@ -49,6 +50,7 @@
             this.txtb_FilePath.Name = "txtb_FilePath";
             this.txtb_FilePath.Size = new System.Drawing.Size(445, 20);
             this.txtb_FilePath.TabIndex = 1;
+            this.txtb_FilePath.Text = "D:\\Inbound_Product.xml";
             // 
             // btn_Browse
             // 
@@ -64,11 +66,22 @@
             // 
             this.openFileDialog1.FileName = "openFileDialog1";
             // 
+            // btn_ReadXML
+            // 
+            this.btn_ReadXML.Location = new System.Drawing.Point(551, 91);
+            this.btn_ReadXML.Name = "btn_ReadXML";
+            this.btn_ReadXML.Size = new System.Drawing.Size(75, 22);
+            this.btn_ReadXML.TabIndex = 3;
+            this.btn_ReadXML.Text = "Read XML";
+            this.btn_ReadXML.UseVisualStyleBackColor = true;
+            this.btn_ReadXML.Click += new System.EventHandler(this.btn_ReadXML_Click);
+            // 
             // DashBorad
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(653, 273);
+            this.Controls.Add(this.btn_ReadXML);
             this.Controls.Add(this.btn_Browse);
             this.Controls.Add(this.txtb_FilePath);
             this.Controls.Add(this.label1);
@@ -85,6 +98,7 @@
         private System.Windows.Forms.TextBox txtb_FilePath;
         private System.Windows.Forms.Button btn_Browse;
         private System.Windows.Forms.OpenFileDialog openFileDialog1;
+        private System.Windows.Forms.Button btn_ReadXML;
     }
 }
 
